@@ -23,6 +23,7 @@
 //
 //
 //
+
 console.log('Ejecutando el Bot mas shidori tercer mundista.\nComenzando ejecucion del script...'); //Texto en consola :v
 const {
 	WAConnection,
